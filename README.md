@@ -87,10 +87,10 @@ https://github.com/user-attachments/assets/705fbd93-c636-478a-ba05-79866f11eb3d
 
 > 按照之前生成的风格提示词加上角色定妆照，生成一两个主要场景的分镜。此过程需要不断调试风格提示词以保证生成场景的各种细节符合预期，经历了多轮风格提示词的调试。
 
-<img width="250" height="137" alt="image" src="https://github.com/user-attachments/assets/65bce76d-256e-48d5-aa66-53babe046071" />
-<img width="250" height="137" alt="image" src="https://github.com/user-attachments/assets/d45930f4-90e2-4eff-b69a-4c5ee68a5490" />
-<img width="250" height="137" alt="image" src="https://github.com/user-attachments/assets/e072a105-9936-486e-87f1-82a0f6bcf3cc" />
-<img width="250" height="137" alt="image" src="https://github.com/user-attachments/assets/f88a4e85-0c95-479a-8216-b5a0685a1059" />
+<img width="200" height="110" alt="image" src="https://github.com/user-attachments/assets/65bce76d-256e-48d5-aa66-53babe046071" />
+<img width="200" height="110" alt="image" src="https://github.com/user-attachments/assets/d45930f4-90e2-4eff-b69a-4c5ee68a5490" />
+<img width="200" height="110" alt="image" src="https://github.com/user-attachments/assets/e072a105-9936-486e-87f1-82a0f6bcf3cc" />
+<img width="200" height="110" alt="image" src="https://github.com/user-attachments/assets/f88a4e85-0c95-479a-8216-b5a0685a1059" />
 <img width="2048" height="1143" alt="image" src="https://github.com/user-attachments/assets/22a064f6-df5b-488a-8aad-4e7ca0036b98" />
 
 ---
