@@ -56,6 +56,7 @@ https://github.com/user-attachments/assets/705fbd93-c636-478a-ba05-79866f11eb3d
 <img width="320" height="160" alt="image" src="https://github.com/user-attachments/assets/3dae913c-51a8-4784-9345-1f044db2ac82" />
 <img width="320" height="160" alt="image" src="https://github.com/user-attachments/assets/eb7e2016-d8d4-4d89-ba44-c57687367e3a" />
 <img width="320" height="160" alt="image" src="https://github.com/user-attachments/assets/a51e7028-d23f-46d0-916a-54f9d89e8ffc" />
+<img width="320" height="160" alt="image" src="https://github.com/user-attachments/assets/8e269326-d766-4f6a-ba1b-45a70567ddf7" />
 
 → 沉淀为**基础提示词库**，确保整体风格稳定一致
 
